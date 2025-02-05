@@ -14,7 +14,6 @@ export default function PoweredBy(props) {
         className='underline justify-start'>
         Next.js 
       </a>
-      //.
     </div>
   )
 }

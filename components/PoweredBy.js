@@ -8,11 +8,11 @@ export default function PoweredBy(props) {
   return (
     <div
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
-      <span></span>
+      <span>Powered by</span>
       <a
         href='https://www.bing.com'
         className='underline justify-start'>
-        必应一下，你就知道 
+        Next.js 
       </a>
       .
     </div>
